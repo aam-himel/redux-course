@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --config ./webpack.config.js"
   },
   "keywords": [],
-  "author": "Mosh Hamedani",
+  "author": "aam-himel",
   "license": "ISC",
   "devDependencies": {
     "webpack": "4.41.6",
@@ -15,6 +15,7 @@
     "webpack-dev-server": "3.10.3"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.2.5",
     "redux": "^4.0.5"
   }
 }
